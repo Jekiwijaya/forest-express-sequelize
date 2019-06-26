@@ -4,6 +4,7 @@
 ### Changed
 - Naming - Rename opts to options in stat getters.
 - Technical - Apply ESLint rules to old files.
+- Filters - Improve filter genericity
 
 ## RELEASE 3.2.3 - 2019-06-21
 ### Fixed
